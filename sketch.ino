@@ -1,3 +1,7 @@
+
+// Check out my video for step by step tutorial
+// https://www.youtube.com/watch?v=qdn1H1xotFs&ab_channel=RoboscienceGtnk
+
 String command ;
 
 void setup() {
