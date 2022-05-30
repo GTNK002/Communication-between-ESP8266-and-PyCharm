@@ -1,3 +1,7 @@
+''' Please check out my Youtube channel for step by step process
+https://www.youtube.com/channel/UCTM5Kv1_eWFYq74OKYLDMWw
+librery required pip install pyserial '''
+
 import serial
 
 import time
