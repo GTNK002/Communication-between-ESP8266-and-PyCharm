@@ -1,5 +1,5 @@
-''' Please check out my Youtube channel for step by step process
-https://www.youtube.com/channel/UCTM5Kv1_eWFYq74OKYLDMWw
+''' Please check out my Youtube video for step by step process
+https://www.youtube.com/watch?v=qdn1H1xotFs&ab_channel=RoboscienceGtnk
 librery required pip install pyserial '''
 
 import serial
